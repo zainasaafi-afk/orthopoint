@@ -1,2 +1,10 @@
 # orthopoint
-Yeh website sirf educational purpose ke liye hai. Kisi bhi medical decision ke liye qualified doctor se salah zaroor lein.
+Here you get well knowledge about orthopedic disease related content 
+precaution about Bone fracture 
+reduction technique 
+total knee replacement exercise 
+total hip replacement exercise 
+study material 
+case discussion 
+experience share 
+all this only for education purpose
